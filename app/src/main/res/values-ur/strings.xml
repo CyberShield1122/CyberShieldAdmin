@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CyberShield Admin</string>
+    <string name="lang">زبان</string>
+    <string name="username">صارف نام</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="login">لاگ ان کریں</string>
+    <string name="tital">سائبر شیلڈایڈمن</string>
+    <string name="one">ملیں بچوں کی رپورٹیں</string>
+    <string name="two">لاپتہ بچوں کی رپورٹس</string>
+
+    <string name="three">چوری شدہ گاڑیوں کی رپورٹس</string>
+
+    <string name="four">فائر رپورٹس</string>
+    <string name="five">چوری کی رپورٹس</string>
+    <string name="six">کرپشن رپورٹس</string>
+    <string name="seven">ریپ رپورٹس</string>
+
+    <string name="eight">اطلاع دیں</string>
+
+    <string name="nine">ہراساں کرنے کی رپورٹس</string>
+
+    <string name="ten">مشکوک شے کی رپورٹس</string>
+    <string name="eleven">غیر قانونی تعمیرات کی رپورٹس</string>
+    <string name="twelve">گھوسٹ ملازمین کی رپورٹس</string>
+    <string name="thirteen">تمام مکمل رپورٹس</string>
+
+</resources>

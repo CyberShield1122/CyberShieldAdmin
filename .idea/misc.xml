@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/drawable/counter.xml" value="0.1585" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/drawable/homedesign.xml" value="0.1585" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/activity_admin_login.xml" value="0.25" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/activity_eight.xml" value="0.25" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/activity_nine.xml" value="0.25" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/activity_one.xml" value="0.25" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/activity_seven.xml" value="0.25" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/activity_thirteen.xml" value="0.25" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/activity_three.xml" value="0.25" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/activity_two.xml" value="0.25" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/item.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/dell pc/Downloads/travel_accounting-master/CyberShieldAdmin/app/src/main/res/layout/list_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

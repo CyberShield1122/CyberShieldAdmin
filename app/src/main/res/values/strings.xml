@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CyberShield Admin</string>
+    <string name="lang">Language</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="tital">Cyber Shield Admin</string>
+    <string name="one">Found Child Reports</string>
+
+    <string name="two">Missing Child Reports</string>
+
+    <string name="three">Stolen Vehicle Reports</string>
+
+    <string name="four">Fire Reports</string>
+    <string name="five">Burglary Reports</string>
+    <string name="six">Corruption Reports</string>
+    <string name="seven">Rape Reports</string>
+
+    <string name="eight">Abuse Reports</string>
+
+    <string name="nine">Harassment Reports</string>
+    <string name="ten">Suspicious Item Reports</string>
+    <string name="eleven">Illegal Construction Reports</string>
+
+    <string name="twelve">Ghost Employees Reports</string>
+    <string name="thirteen">All Completed Reports</string>
+
+</resources>
